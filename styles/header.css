@@ -1,0 +1,14 @@
+header {
+  background-color: var(--primary-clr);
+  height: 170px;
+}
+
+header img {
+  margin-top: 20px;
+}
+
+header h4 {
+  color: var(--tertiary-clr);
+  padding-bottom: 20px;
+  margin-bottom: 0;
+}

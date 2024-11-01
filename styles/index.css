@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+:root {
+  --primary-clr: #ed1c24;
+  --secondary-clr: #0a3049;
+  --tertiary-clr: #ffffff;
+  --quaternary-clr: #d3d3d3;
+  --quinary-clr: #000000;
+}
+
+html, body {
+  text-align: center;
+  font-family: "Open Sans";
+}
+
+body {
+  margin: 0;
+}
